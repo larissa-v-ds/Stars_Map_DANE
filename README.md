@@ -9,7 +9,7 @@ This project showcases an artistic map, illustrating Colombian Demographic Data,
 - Bogotá, as the Colombian capital and the main city is the largest star, followed by other capitals and municipalities economically relevant in the country.
 - Most of the population is located along the mountain ranges, and near the ports in the Caribbean region to the north. Additionally, there is evident historical, cultural, and economic influence with Equator and Venezuela frontiers.
 
-********** Pegar ruta imagen ***********
+![Stars Map - Urban Demography](/Dataset/Final%20Maps/Stars_Final_Map.jpeg)
 
 
 ## **Sources and Tools**
